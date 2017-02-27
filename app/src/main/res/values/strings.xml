@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Tour Guide App</string>
+
+
+    <!-- Main activity strings -->
+    <string name="attractions">Attractions</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="shopping">Shopping</string>
+    <string name="extra">Extra</string>
+
 </resources>
